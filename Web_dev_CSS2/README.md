@@ -1,12 +1,6 @@
 Web Lab 04 &ndash; CSS II
 ==========
 
-Begin by forking this repository into your namespace by clicking the ```fork``` button above, then selecting your username from the resulting window. Once completed, click the ```clone``` button, copy the ```Clone with HTTPS``` value. Open IntelliJ, and from the welcome screen click ```Check out from Version Control -> Git```, then paste the copied URL into the ```URL``` field of the resulting window. Provide your GitLab username and password if prompted.
-
-Explore the files in the project, familiarizing yourself with the content.
-
-When complete, demonstrate your code to your tutor. This must be verified with your tutor by the end of the week.
-
 Exercise One
 ----------
 In this exercise, you’re going to decorate an image of a Christmas tree with baubles, and place it all over a nice New Zealand landscape photograph. You will find the images used in this exercise in the ```ictgradschool/web/lab04/assets``` folder. Any HTML for this question should be placed in ```christmas_tree.html```, and any associated CSS should be written in ```style.css```. An example of what your page may look like when complete is shown below.
